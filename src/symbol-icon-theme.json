@@ -219,7 +219,7 @@
 		"pug": { "iconPath": "./icons/files/pug.svg" },
 		"pulumi": { "iconPath": "./icons/files/pulumi.svg" },
 		"puzzle": { "iconPath": "./icons/files/puzzle.svg" },
-		"python": { "iconPath": "./icons/files/python.svg" },
+		"python": { "iconPath": "./icons/files/python-misc.svg" },
 		"r": { "iconPath": "./icons/files/r.svg" },
 		"razor": { "iconPath": "./icons/files/razor.svg" },
 		"react-test": { "iconPath": "./icons/files/react-test.svg" },

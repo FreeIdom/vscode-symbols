@@ -1,9 +1,9 @@
 {
-	"name": "symbols",
-	"displayName": "Symbols",
+	"name": "cs-symbols",
+	"displayName": "CS Symbols",
 	"description": "A simple file icon theme for VS Code",
-	"version": "0.0.21",
-	"publisher": "miguelsolorio",
+	"version": "0.0.3",
+	"publisher": "FreeIdom",
 	"icon": "symbols.png",
 	"preview": true,
 	"main": "./src/extension.js",
@@ -33,15 +33,15 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "symbols",
-				"label": "Symbol Icons",
+				"id": "cs-symbols",
+				"label": "CS Symbol Icons",
 				"path": "./src/symbol-icon-theme.modified.json",
 				"_watch": true
 			}
 		],
 		"configuration": {
 			"type": "object",
-			"title": "Symbols",
+			"title": "CS Symbols",
 			"properties": {
 				"symbols.hidesExplorerArrows": {
 					"type": "boolean",

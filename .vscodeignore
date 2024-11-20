@@ -2,6 +2,9 @@
 .vscode-test/**
 .gitignore
 .yarnrc
+preview
+file-types
+.github
 vsc-extension-quickstart.md
 **/tsconfig.json
 **/.eslintrc.json

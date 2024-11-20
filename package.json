@@ -1,8 +1,8 @@
 {
 	"name": "cs-symbols",
-	"displayName": "CS Symbols",
-	"description": "A simple file icon theme for VS Code",
-	"version": "0.0.3",
+	"displayName": "CS Icon Theme",
+	"description": "Icon theme",
+	"version": "0.0.4",
 	"publisher": "FreeIdom",
 	"icon": "symbols.png",
 	"preview": true,
@@ -21,7 +21,7 @@
 		"url": "https://github.com/miguelsolorio/vscode-symbols/issues"
 	},
 	"author": {
-		"name": "Miguel Solorio"
+		"name": "CS"
 	},
 	"capabilities": {
 		"untrustedWorkspaces": {
@@ -34,7 +34,7 @@
 		"iconThemes": [
 			{
 				"id": "cs-symbols",
-				"label": "CS Symbol Icons",
+				"label": "CS",
 				"path": "./src/symbol-icon-theme.modified.json",
 				"_watch": true
 			}
